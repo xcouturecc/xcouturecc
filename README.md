@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/coutureone/iBeats/main/files/heart.svg" alt="My heart beats" width="108" />
+<img align="right" src="https://raw.githubusercontent.com/xcouturecc/iBeats/main/files/heart.svg" alt="My heart beats" width="108" />
 
 ### Hi, I'm Couture 👋
 
@@ -16,7 +16,7 @@ I enjoy turning small ideas into useful things and documenting the slow, ordinar
 
 - 🧩 Turning little ideas about technology, tools, and life into real things
 - 🏃 Moving with intention and keeping a record of every start
-- 📝 Collecting thoughts and fragments from this year in [`2026`](https://github.com/coutureone/2026)
+- 📝 Collecting thoughts and fragments from this year in [`2026`](https://github.com/xcouturecc/2026)
 - 🌱 Staying curious, playing the long game, and continuing to create
 
 > Meet things as they come. Do not chase what has yet to arrive.  
